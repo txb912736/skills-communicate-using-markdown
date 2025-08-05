@@ -6,3 +6,14 @@
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header
 
+
+Generic Code Block Example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Javascript Code Example
+```javascript
+var myVar = "Hello, world!";
+```
